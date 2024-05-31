@@ -1,4 +1,4 @@
-# DATA472-Individual-Project-Submission - Hua Wang
+# DATA472 Individual Project Submission - Hua Wang
 
 > As a volunteer of Central Collect Team, I have contribute in this course by providing both Individual Project and Central Collect Team working following:
 
