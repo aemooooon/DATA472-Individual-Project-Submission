@@ -2,7 +2,7 @@
 
 As a volunteer of the Central Collect Team, I have contributed to this course by providing both Individual Project and Central Collect Team work following:
 
-## Individual Project
+## Individual Project Contribution
 
 1. **Flask WEB API Example**: [GitHub Repository](https://github.com/Data472-Individual-Project-Pipeline/flask-web-api-example)
     - **Description**: This project is a simple example of a Flask web API that runs as an Operation System level service and returns an HTTP JSON response. The initial thought was to inspire other classmates because some of them were struggling with how to run up a Web API and how to run a service on an AWS EC2 instance.
@@ -15,8 +15,12 @@ As a volunteer of the Central Collect Team, I have contributed to this course by
 
 ## Central Collect Team Working
 
-1. **Central Data Collection Service**: [GitHub Repository](https://github.com/Data472-Individual-Project-Pipeline/Data-collection-service)
+1. **Central Data Collection Service**
+    - [GitHub Repository](https://github.com/Data472-Individual-Project-Pipeline/Data-collection-service)
+    - [Online Live Demo](http://af.hua.nz/)
     - **Description**: The Data Collection Service is a part of the Micro-service that the DATA472 Central Collection Team used to collect other students' individual project data, based on Apache Airflow, designed to automate the collection and processing of student data scheduled as CRON Jobs . The project includes multiple DAGs (Directed Acyclic Graphs) and processors that collect data from different Web APIs and store it in a PostgreSQL database run on AWS RDS.
 
-2. **Central Data (Web API) Provider Service**: [GitHub Repository](https://github.com/Data472-Individual-Project-Pipeline/Web-API-Service)
+2. **Central Data (Web API) Provider Service**
+    - [GitHub Repository](https://github.com/Data472-Individual-Project-Pipeline/Web-API-Service)
+    - [Online Live Demo](http://api.hua.nz/api-docs/)
     - **Description**: The Web API Service is built using Node.js and Express to provide API endpoints for visualizing data collected by Data472 student individual projects. The project includes multiple routes that correspond to different datasets and uses Swagger for API documentation.
