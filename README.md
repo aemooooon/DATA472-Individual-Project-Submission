@@ -7,6 +7,8 @@
 > - **Lecturer**: Giulio Valentino Dalla Riva
 > - **Date**: 2024-05-31
 
+<hr />
+
 > [!NOTE]
 > As a volunteer of the Central Collect Team, I have contributed to this course by providing both Individual Project and Central Collect Team work following:
 
