@@ -3,6 +3,7 @@
 > [!IMPORTANT]
 > - **Student Name**: Hua Wang
 > - **Student ID**: 29375234
+> - **Student Email**: [hwa205@uclive.ac.nz](mailto:hwa205@uclive.ac.nz)
 > - **Lecturer**: Giulio Valentino Dalla Riva
 > - **Date**: 2024-05-31
 
