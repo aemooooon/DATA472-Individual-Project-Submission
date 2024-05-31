@@ -1,4 +1,4 @@
-# DATA472 Individual Project Submission - Hua Wang
+# DATA472 Individual Project Submission
 
 > [!IMPORTANT]
 > - **Student Name**: Hua Wang
