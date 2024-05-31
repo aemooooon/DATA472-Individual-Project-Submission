@@ -1,5 +1,10 @@
 # DATA472 Individual Project Submission - Hua Wang
 
+> Student Name: Hua Wang
+> Student ID: 29375234
+> Lecturer: Giulio Valentino Dalla Riva
+> Date: 2024-05-31
+
 As a volunteer of the Central Collect Team, I have contributed to this course by providing both Individual Project and Central Collect Team work following:
 
 ## Individual Project Contribution
