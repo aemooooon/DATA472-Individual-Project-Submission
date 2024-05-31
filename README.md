@@ -16,7 +16,7 @@ As a volunteer of the Central Collect Team, I have contributed to this course by
 ## Central Collect Team Working
 
 1. **Central Data Collection Service**: [GitHub Repository](https://github.com/Data472-Individual-Project-Pipeline/Data-collection-service)
-    - **Description**: The Data Collection Service is a part of Micro-service that DATA472 Central Collection Team used to collect other student individual project data, based on Apache Airflow designed to automate the collection and processing of student data schedulely as CRON Jobs . The project includes multiple DAGs (Directed Acyclic Graphs) and processors that collect data from different Web API and store it in a PostgreSQL database runs on AWS RDS.
+    - **Description**: The Data Collection Service is a part of the Micro-service that the DATA472 Central Collection Team used to collect other students' individual project data, based on Apache Airflow, designed to automate the collection and processing of student data scheduled as CRON Jobs . The project includes multiple DAGs (Directed Acyclic Graphs) and processors that collect data from different Web APIs and store it in a PostgreSQL database run on AWS RDS.
 
-2. **Central Data (Web API) Provdier Service**: [GitHub Repository](https://github.com/Data472-Individual-Project-Pipeline/Web-API-Service)
-    - **Description**: The Web API Service is built using Node.js and Express to provide API endpoints for visualizing data collected by Data472 student individual project. The project includes multiple routes that correspond to different datasets and uses Swagger for API documentation.
+2. **Central Data (Web API) Provider Service**: [GitHub Repository](https://github.com/Data472-Individual-Project-Pipeline/Web-API-Service)
+    - **Description**: The Web API Service is built using Node.js and Express to provide API endpoints for visualizing data collected by Data472 student individual projects. The project includes multiple routes that correspond to different datasets and uses Swagger for API documentation.
