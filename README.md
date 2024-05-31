@@ -1,6 +1,6 @@
 # DATA472 Individual Project Submission - Hua Wang
 
-> [!INFORMATION]
+> [!INFO]
 > - **Student Name**: Hua Wang
 > - **Student ID**: 29375234
 > - **Lecturer**: Giulio Valentino Dalla Riva
