@@ -1,16 +1,6 @@
 # DATA472 Individual Project Submission
 
 > [!IMPORTANT]
->
-> -   **Student Name**: Hua Wang
-> -   **Student ID**: 29375234
-> -   **Student Email**: [hwa205@uclive.ac.nz](mailto:hwa205@uclive.ac.nz)
-> -   **Lecturer**: Giulio Valentino Dalla Riva
-> -   **Date**: 2024-05-31
-
-<hr />
-
-> [!NOTE]
 > As a volunteer of the Central Collect Team, I have contributed to this course by providing both Individual Project and Central Collect Team work following:
 
 ## Individual Project Contribution
